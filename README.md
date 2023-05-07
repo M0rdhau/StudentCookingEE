@@ -9,3 +9,5 @@ There will also be some Estonia-specific recommendations on food prices, brands,
 ## Table of Contents
 * [Breakfast and light snacks](./light_stuff)
 	* [Buckwheat](./light_stuff/grechka.md)
+* [Main dishes](./main_dishes)
+	* [Plov](./main_dishes/plov.md)
